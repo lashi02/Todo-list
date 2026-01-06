@@ -1,4 +1,3 @@
-'use strict';
 // Estado de la aplicación
 let tasks = [];
 let currentFilter = 'all'; //se le asigna el valor all, active o completed a traves de los botones de filtro
